@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "a8a6be4acf577596cfe24d6ecb80a09701a50c52",
+    "author": "katarzynam-165 <37637319+katarzynam-165@users.noreply.github.com>",
+    "time": "2024-01-30 17:08:23",
+    "files": 2,
+    "merge": false,
+    "message": "closes #3\n"
+  },
+  "repo": "https://github.com/ropensci/rangr",
+  "pkg": "rangr"
+}
