@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "da9dbc9cfe77d8a4620b921a24d613cf8837a4e0",
+    "author": "katarzynam-165 <37637319+katarzynam-165@users.noreply.github.com>",
+    "time": "2026-08-19T14:25:37Z",
+    "files": 1,
+    "merge": false,
+    "message": "Update cran-comments.md\n"
+  },
+  "repo": "https://github.com/ropensci/rangr",
+  "pkg": "rangr",
+  "time": "2026-08-19T15:14:06Z"
+}
