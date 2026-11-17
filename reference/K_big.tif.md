@@ -1,0 +1,27 @@
+# Example Of Carrying Capacity Map (Big)
+
+[`SpatRaster`](https://rspatial.github.io/terra/reference/SpatRaster-class.html)
+object that can be used as a carrying capacity map to
+[`initialise`](https://docs.ropensci.org/rangr/reference/initialise.md)
+data necessary to perform a simulation with the
+[`sim`](https://docs.ropensci.org/rangr/reference/sim.md) function. This
+map is compatible with
+[`n1_big.tif`](https://docs.ropensci.org/rangr/reference/n1_big.tif.md).
+
+## Format
+
+[`SpatRaster`](https://rspatial.github.io/terra/reference/SpatRaster-class.html)
+object with 100 rows and 100 columns containing integer values 0-25 and
+NA's indicating unsuitable areas.
+
+## Source
+
+Data generated in-house to serve as an example (using spatial
+autocorrelation).
+
+## Examples
+
+``` r
+system.file("input_maps/K_big.tif", package = "rangr")
+#> [1] "/github/home/R/x86_64-pc-linux-gnu-library/4.6/rangr/input_maps/K_big.tif"
+```
